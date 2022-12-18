@@ -1,0 +1,38 @@
+header{
+    background-color: rgb(118, 159, 205);
+    padding: 5px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    background-color: rgb(185, 215, 234);
+    padding: 5px;
+    text-align: center;
+    color: white;
+    margin-top: 10%;
+}
+#navbar1{
+    background-color:rgb(185, 215, 234);
+    margin-top: 1px;
+    border-radius: 4px;
+    color: rgb(66, 72, 116);
+    font-family: 'Times New Roman', Times, serif;
+}
+#login{
+    padding-left:100%; 
+    padding-top:10%; 
+    display:flex;
+    
+}
+#dropdownLogin{
+    background-color: rgb(247, 251, 252);
+}
+.btnPriority{
+    background-color: rgb(185, 215, 234);
+    background-color: none;
+}
+#container{
+    padding-top: 2%;
+}
